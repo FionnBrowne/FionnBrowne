@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Kotlin applications 
+- 🌱 I’m currently learning in GMIT and am a final year student
+- ⚡ I enjoy developing front end applications and working on games.
+- 📫 How to reach me: G00373152@gmit.ie
