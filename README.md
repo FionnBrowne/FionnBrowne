@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Kotlin applications 
 - 🌱 I’m currently learning in GMIT and am a final year student
 - ⚡ I enjoy developing front end applications and working on games.
-- 📫 How to reach me: G00373152@gmit.ie
+- 📫 How to reach me: G00373152@atu.ie  F.Browne6@nuigalway.ie
